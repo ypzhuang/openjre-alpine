@@ -1,3 +1,6 @@
 = OpenJRE on Alpine with openssl lib
 
-Now we can wget a https url.
+* Support a https url to wget
+* Support Time Zone, default to Asia/Shanghai
+* Latest 8 jre with Alpine 3.8
+
