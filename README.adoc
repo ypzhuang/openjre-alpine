@@ -3,4 +3,4 @@
 * Support a https url to wget
 * Support Time Zone, default to Asia/Shanghai
 * Latest 8 jre with Alpine 3.8
-
+* ypzhuang/openjre-alpine:dockerize : support dockerize
