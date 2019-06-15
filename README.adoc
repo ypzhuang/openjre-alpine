@@ -4,3 +4,4 @@
 * Support Time Zone, default to Asia/Shanghai
 * Latest 8 jre with Alpine 3.8
 * ypzhuang/openjre-alpine:dockerize : support dockerize
+* ypzhuang/openjre-alpine:font, add dejavu font
